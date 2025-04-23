@@ -1,1 +1,5 @@
+train: /content/drive/MyDrive/yolov5_dataset/train/images
+val: /content/drive/MyDrive/yolov5_dataset/valid/images
 
+nc: 1
+names: ['person']
